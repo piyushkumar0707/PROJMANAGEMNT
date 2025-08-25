@@ -1,0 +1,23 @@
+{
+  "name": "projmanagement",
+  "version": "1.0.0",
+  "description": "a simple web dev project that consist of platform that helps in project management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushkumar0707/PROJMANAGEMNT.git"
+  },
+  "author": "Piyush Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushkumar0707/PROJMANAGEMNT/issues"
+  },
+  "homepage": "https://github.com/piyushkumar0707/PROJMANAGEMNT#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
